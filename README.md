@@ -1,7 +1,7 @@
 # TECH-I.S.----DT-Ensemble
 # Decision Trees and Ensemble Methods 
 
-## [Step 3-3-1 : Decision Trees](01_Decision-trees)
+## [Step 3-3-1 : Decision Trees](Decision_trees)
 
 - Decision Tree Terminologies
 - Attribute Selection Measures

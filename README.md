@@ -11,7 +11,7 @@
 - Advantages of the Decision Tree
 - Disadvantages of the Decision Tree
 
-## [Step 3-3-2 : Ensemble Trees](02_Ensemble%20Methods)
+## [Step 3-3-2 : Ensemble Trees](Ensemble_trees)
 
 - Check Missing Data
 - Data Summary

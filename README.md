@@ -1,7 +1,6 @@
-# TECH-I.S.----DT-Ensemble
 # Decision Trees and Ensemble Methods 
 
-## [Step 3-3-1 : Decision Trees](Decision_trees)
+## [01 Decision Trees](01_Decision-trees)
 
 - Decision Tree Terminologies
 - Attribute Selection Measures
@@ -11,7 +10,7 @@
 - Advantages of the Decision Tree
 - Disadvantages of the Decision Tree
 
-## [Step 3-3-2 : Ensemble Trees](Ensemble_trees)
+## [02 Ensemble Methods](02_Ensemble%20Methods)
 
 - Check Missing Data
 - Data Summary
@@ -25,6 +24,10 @@
     - Bagging Classifier
     - GradientBoost Classifier
 - Comparision of Models
+
+## [03 Project](03_Project)
+
+-Bagging and Boosting project
 
 # Supplimentary Resources 
 
